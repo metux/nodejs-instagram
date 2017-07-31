@@ -1,6 +1,6 @@
 {
   "name": "instagram-crawler",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "download images from instragram",
   "author": "Enrico Weigelt, metux IT consult <enrico.weigelt@gr13.net>",
   "main": "lib/crawler.js",
