@@ -14,7 +14,10 @@
     "image-downloader": "^3.2.2",
     "md5-file": "^3.1.1",
     "mkdirp": "^0.5.1",
-    "safe-eval": "^0.3.0"
+    "node-gyp": "^3.6.2",
+    "q": "^1.5.0",
+    "safe-eval": "^0.3.0",
+    "sqlite-sync": "^0.3.6"
   },
   "devDependencies": {},
   "license": "GPL",
